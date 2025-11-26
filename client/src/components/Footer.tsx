@@ -70,7 +70,7 @@ export default function Footer() {
               <li data-testid="footer-text-email">info@LSATaxi.ch</li>
               <li data-testid="footer-text-address">
                 Bahnhofstrasse 100<br />
-                8001 Zurich, United Kingdom
+                8001 Birmingham, United Kingdom
               </li>
             </ul>
           </div>

@@ -16,8 +16,9 @@ export default function Contact() {
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           <div className="h-96 lg:h-auto rounded-md overflow-hidden">
+
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.2341234567890!2d8.541694!3d47.376887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDfCsDIyJzM2LjgiTiA4wrAzMiczMC4xIkU!5e0!3m2!1sen!2sch!4v1234567890123"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10887.728194829204!2d-1.892304408903316!3d52.4827960150634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870942d1b417173%3A0xca81fef0aeee7998!2sBirmingham%2C%20UK!5e1!3m2!1sen!2sus!4v1764182206492!5m2!1sen!2sus"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -42,7 +43,7 @@ export default function Contact() {
                   <h4 className="font-semibold mb-1">Address</h4>
                   <p className="text-muted-foreground" data-testid="text-address">
                     Bahnhofstrasse 100<br />
-                    8001 Zurich, United Kingdom
+                    8001 Birmingham, United Kingdom
                   </p>
                 </div>
               </div>

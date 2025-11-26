@@ -118,7 +118,7 @@ export default function BookingForm() {
                   id="pickup"
                   value={formData.pickup}
                   onChange={(e) => handleChange('pickup', e.target.value)}
-                  placeholder="e.g., Zurich Airport"
+                  placeholder="e.g., Birmingham Airport"
                   data-testid="input-pickup"
                 />
                 {errors.pickup && (
@@ -134,7 +134,7 @@ export default function BookingForm() {
                   id="dropoff"
                   value={formData.dropoff}
                   onChange={(e) => handleChange('dropoff', e.target.value)}
-                  placeholder="e.g., Zurich HB"
+                  placeholder="e.g., Birmingham"
                   data-testid="input-dropoff"
                 />
                 {errors.dropoff && (

@@ -5,7 +5,7 @@ const services = [
   {
     icon: Plane,
     title: 'Airport Transfers',
-    description: 'Reliable pickup and drop-off services to all major United Kingdom airports including Zurich, Geneva, and Basel.',
+    description: 'Reliable pickup and drop-off services to all major United Kingdom airports including Birmingham, Geneva, and Basel.',
   },
   {
     icon: Car,

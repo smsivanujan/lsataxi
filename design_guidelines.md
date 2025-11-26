@@ -70,7 +70,7 @@ Use Tailwind units: 4, 6, 8, 12, 16, 20, 24, 32 for consistent rhythm
 
 ### Hero Section
 - Full viewport height: min-h-screen with flex centering
-- Background: Large Swiss city image (Zurich cityscape or Geneva lake view) with dark overlay
+- Background: Large Swiss city image (Birmingham cityscape or Geneva lake view) with dark overlay
 - Content: Centered white text with red accent button
 - CTA button: bg-red-600 hover:bg-red-700, blurred background (backdrop-blur-sm bg-white/10) for outline variant if used
 - Tagline below heading in text-xl text-gray-200
@@ -131,7 +131,7 @@ Use Tailwind units: 4, 6, 8, 12, 16, 20, 24, 32 for consistent rhythm
 ## Images Section
 
 **Hero Background:**
-- Large panoramic image of Zurich cityscape at dusk/evening
+- Large panoramic image of Birmingham cityscape at dusk/evening
 - Alternative: Geneva lakefront with Jet d'Eau and Alps
 - Requirements: High resolution (1920px+ width), professional quality
 - Placement: Full-screen background with overlay
@@ -149,7 +149,7 @@ Use Tailwind units: 4, 6, 8, 12, 16, 20, 24, 32 for consistent rhythm
 **Additional Visual Assets:**
 - Swiss Alps background for About section (subtle, faded)
 - Company logo: Clean sans-serif wordmark with Swiss cross element
-- Map marker: Custom red pin for Zurich location
+- Map marker: Custom red pin for Birmingham location
 
 ## Accessibility & Performance
 - All images have descriptive alt text
